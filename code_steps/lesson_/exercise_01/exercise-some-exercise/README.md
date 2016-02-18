@@ -1,3 +1,3 @@
 # BranchFlattening
 
-This is the content for starting exercise one.
+This is the solution to exercise 1.
